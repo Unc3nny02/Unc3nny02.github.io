@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ApacheBlaze"
+title:  "RenderQuest"
 ---
 
 ## Hello Everyone
@@ -26,3 +26,31 @@ Why?
 Let's check the source code to understand how the program runs everything after clicking the "Render Now" button.
 
 ![image](https://github.com/Unc3nny02/unc3nny02.github.io/assets/127601349/feee76cb-2c4c-450f-bf8f-737bd3ada18f)
+
+we will build the request accordingly using
+
+https://webhook.site/
+
+Let's try the FetchServerInfo first and test if it works or not
+
+So first we need to create file called index.tpl and inside of the file
+
+![image](https://github.com/Unc3nny02/unc3nny02.github.io/assets/127601349/8ad2b9b1-c947-4a2e-8e8c-a2c07b373fee)
+
+and we need to transfer this file using python server 
+
+Next we need to set up ngrok
+
+![image](https://github.com/Unc3nny02/unc3nny02.github.io/assets/127601349/2b68339f-3fcf-4b8b-9a17-f7969b152079)
+
+and we have to naviage using our ngrok link:
+
+![image](https://github.com/Unc3nny02/unc3nny02.github.io/assets/127601349/5776585f-b9f8-4aa2-b7b2-0e7a2f9a0a5f)
+
+and we can see we successfull to view the file, additionally we see flaga5b739980b.txt which is our flag.
+
+Although this challange was quite straightforward but it was deffintely interesting. Hopelly You learned something new
+
+Happy Hacking :)
+
+
