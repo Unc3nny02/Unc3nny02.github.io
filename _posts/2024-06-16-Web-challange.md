@@ -23,7 +23,7 @@ We can use a webhook here because it allows us to enter an external link. This w
 
 Why?
 
-Let's check the source code to understand how the program runs everything after clicking the "Render Now" button.
+Let's check the source code to understand how the program runs.
 
 ![image](https://github.com/Unc3nny02/unc3nny02.github.io/assets/127601349/feee76cb-2c4c-450f-bf8f-737bd3ada18f)
 
